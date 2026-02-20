@@ -1,0 +1,10 @@
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 10\Assignment 10\obj\Debug\Assignment 10.csproj.AssemblyReference.cache
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 10\Assignment 10\obj\Debug\Assignment_10.Form1.resources
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 10\Assignment 10\obj\Debug\Assignment_10.Properties.Resources.resources
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 10\Assignment 10\obj\Debug\Assignment 10.csproj.GenerateResource.cache
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 10\Assignment 10\obj\Debug\Assignment 10.csproj.CoreCompileInputs.cache
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 10\Assignment 10\bin\Debug\Assignment 10.exe.config
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 10\Assignment 10\bin\Debug\Assignment 10.exe
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 10\Assignment 10\bin\Debug\Assignment 10.pdb
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 10\Assignment 10\obj\Debug\Assignment 10.exe
+C:\Users\25jwh\Desktop\Visual Studio\Assignment 10\Assignment 10\obj\Debug\Assignment 10.pdb
